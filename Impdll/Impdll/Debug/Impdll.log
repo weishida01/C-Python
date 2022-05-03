@@ -1,0 +1,14 @@
+﻿  inter.cpp
+     Creating library D:\daima\9.软件系统构造方法\作业\第五次课作业\测试\Impdll\Debug\Impdll.lib and object D:\daima\9.软件系统构造方法\作业\第五次课作业\测试\Impdll\Debug\Impdll.exp
+inter.obj : error LNK2019: unresolved external symbol __imp__PyObject_GetAttrString referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__PyArg_Parse referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__Py_BuildValue referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__PyRun_SimpleStringFlags referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__Py_SetPythonHome referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__Py_Initialize referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__Py_Finalize referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__Py_IsInitialized referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__PyImport_ImportModule referenced in function _py
+inter.obj : error LNK2019: unresolved external symbol __imp__PyObject_CallObject referenced in function _py
+D:\Pythonzheng\libs\python37_d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\daima\9.软件系统构造方法\作业\第五次课作业\测试\Impdll\Debug\Impdll.dll : fatal error LNK1120: 10 unresolved externals
